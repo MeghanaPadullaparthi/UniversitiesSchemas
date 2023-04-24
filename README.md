@@ -1,0 +1,2 @@
+# UniversitiesSchemas
+mongodb schemas
