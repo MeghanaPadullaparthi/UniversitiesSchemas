@@ -1,0 +1,190 @@
+{
+    "students": [{
+        "name": "Dianne Dibbert",
+        "studentId": "64b9fd01-2d13-4d7c-9cdf-68a9d7c6756c",
+        "email": "Norma.Hilpert@gmail.com",
+        "major": "Mathematics",
+        "classYear": 2023
+    }, {
+        "name": "Dr. Preston Rosenbaum",
+        "studentId": "47d19329-f99a-4b4d-98fd-b8a14e42e9d2",
+        "email": "Mariane46@yahoo.com",
+        "major": "Biology",
+        "classYear": 2024
+    }, {
+        "name": "Traci Renner",
+        "studentId": "8aeb6913-58f7-4c77-a374-78e15985d3cc",
+        "email": "Garland42@yahoo.com",
+        "major": "Computer Science",
+        "classYear": 2023
+    }, {
+        "name": "Troy Turcotte",
+        "studentId": "55590798-6c49-48e8-8533-bbb56a8b773f",
+        "email": "Patrick.Wehner26@yahoo.com",
+        "major": "Computer Science",
+        "classYear": 2024
+    }, {
+        "name": "Maggie Schiller",
+        "studentId": "42c350ee-359c-4af3-b799-203279fa156f",
+        "email": "Nona_Kshlerin@yahoo.com",
+        "major": "Computer Science",
+        "classYear": 2024
+    }, {
+        "name": "Ms. Clint Bartoletti",
+        "studentId": "ea42adc0-383a-4a01-bb32-92cce1304187",
+        "email": "Kaycee_West@hotmail.com",
+        "major": "Computer Science",
+        "classYear": 2024
+    }, {
+        "name": "Ora McCullough",
+        "studentId": "632b5adb-9449-4ff0-971d-ec505e12bcd7",
+        "email": "Ezra48@yahoo.com",
+        "major": "Biology",
+        "classYear": 2022
+    }, {
+        "name": "Mona Boehm",
+        "studentId": "886417f2-badf-4cde-8271-22c559ae3f24",
+        "email": "Americo.Yost@yahoo.com",
+        "major": "Biology",
+        "classYear": 2024
+    }, {
+        "name": "Irving Macejkovic",
+        "studentId": "1e993511-32ad-4c13-83ad-4b8462ed1355",
+        "email": "Winfield.Herman@hotmail.com",
+        "major": "Mathematics",
+        "classYear": 2024
+    }, {
+        "name": "Fernando Willms",
+        "studentId": "d7dad9e1-ff48-4389-b6ae-5c7293a5e86d",
+        "email": "Nadia_Cronin90@yahoo.com",
+        "major": "Mathematics",
+        "classYear": 2022
+    }],
+    "courses": [{
+        "courseId": "GEMNQV",
+        "courseName": "input Bacon Awesome",
+        "courseDescription": "Harum placeat quia sapiente nam. Et atque voluptatem eaque sapiente quia distinctio laudantium illo esse. Vitae quaerat ut dolorem odit. Iure odio inventore totam odio mollitia voluptates delectus.",
+        "instructorName": "Pat Glover"
+    }, {
+        "courseId": "991FOS",
+        "courseName": "cross-platform Identity service-desk",
+        "courseDescription": "Nostrum pariatur libero aspernatur sit et hic totam. Veritatis ad ducimus nulla sunt. Tenetur laborum nihil eaque et vero aut aperiam. Ea sit aut optio. Aut quidem unde omnis. Minus incidunt accusamus.",
+        "instructorName": "Francis Goldner Jr."
+    }, {
+        "courseId": "WVXO48",
+        "courseName": "yellow Pennsylvania Georgia",
+        "courseDescription": "Dolorem ab reprehenderit. Ut magnam architecto commodi. Temporibus vel officia quia numquam. Qui est nesciunt iusto cum maiores pariatur consequatur. Quae id ea.",
+        "instructorName": "Rita Bradtke"
+    }, {
+        "courseId": "PW3CGJ",
+        "courseName": "up Account navigating",
+        "courseDescription": "Aspernatur pariatur ipsam eos. Saepe voluptates soluta minus sunt voluptas. Et earum totam. Veritatis aut explicabo expedita et. Saepe nisi quo molestiae dolorem quasi quas est deserunt.",
+        "instructorName": "Lynne Littel I"
+    }, {
+        "courseId": "A1V4IF",
+        "courseName": "Interactions Engineer convergence",
+        "courseDescription": "Tempore unde aliquid quod iure quia. Veniam quaerat minima sint veniam adipisci nisi illum quasi ut. Excepturi quasi quam sit doloremque cum molestias qui. Architecto quam et illo ut qui fugit voluptas similique ab. Dolor dicta et molestias est ut possimus aut deserunt eius. Soluta voluptatibus minus iure.",
+        "instructorName": "Roosevelt Jenkins"
+    }],
+    "grades": [{
+        "studentId": "64b9fd01-2d13-4d7c-9cdf-68a9d7c6756c",
+        "courseId": "GEMNQV",
+        "gradeValue": "F"
+    }, {
+        "studentId": "64b9fd01-2d13-4d7c-9cdf-68a9d7c6756c",
+        "courseId": "991FOS",
+        "gradeValue": "D"
+    }, {
+        "studentId": "64b9fd01-2d13-4d7c-9cdf-68a9d7c6756c",
+        "courseId": "WVXO48",
+        "gradeValue": "F"
+    }, {
+        "studentId": "64b9fd01-2d13-4d7c-9cdf-68a9d7c6756c",
+        "courseId": "A1V4IF",
+        "gradeValue": "D"
+    }, {
+        "studentId": "47d19329-f99a-4b4d-98fd-b8a14e42e9d2",
+        "courseId": "GEMNQV",
+        "gradeValue": "A"
+    }, {
+        "studentId": "47d19329-f99a-4b4d-98fd-b8a14e42e9d2",
+        "courseId": "WVXO48",
+        "gradeValue": "A"
+    }, {
+        "studentId": "47d19329-f99a-4b4d-98fd-b8a14e42e9d2",
+        "courseId": "PW3CGJ",
+        "gradeValue": "A"
+    }, {
+        "studentId": "47d19329-f99a-4b4d-98fd-b8a14e42e9d2",
+        "courseId": "A1V4IF",
+        "gradeValue": "B"
+    }, {
+        "studentId": "8aeb6913-58f7-4c77-a374-78e15985d3cc",
+        "courseId": "GEMNQV",
+        "gradeValue": "C"
+    }, {
+        "studentId": "8aeb6913-58f7-4c77-a374-78e15985d3cc",
+        "courseId": "WVXO48",
+        "gradeValue": "F"
+    }, {
+        "studentId": "55590798-6c49-48e8-8533-bbb56a8b773f",
+        "courseId": "WVXO48",
+        "gradeValue": "A"
+    }, {
+        "studentId": "55590798-6c49-48e8-8533-bbb56a8b773f",
+        "courseId": "A1V4IF",
+        "gradeValue": "B"
+    }, {
+        "studentId": "42c350ee-359c-4af3-b799-203279fa156f",
+        "courseId": "GEMNQV",
+        "gradeValue": "C"
+    }, {
+        "studentId": "ea42adc0-383a-4a01-bb32-92cce1304187",
+        "courseId": "GEMNQV",
+        "gradeValue": "F"
+    }, {
+        "studentId": "ea42adc0-383a-4a01-bb32-92cce1304187",
+        "courseId": "991FOS",
+        "gradeValue": "C"
+    }, {
+        "studentId": "632b5adb-9449-4ff0-971d-ec505e12bcd7",
+        "courseId": "991FOS",
+        "gradeValue": "F"
+    }, {
+        "studentId": "632b5adb-9449-4ff0-971d-ec505e12bcd7",
+        "courseId": "PW3CGJ",
+        "gradeValue": "A"
+    }, {
+        "studentId": "632b5adb-9449-4ff0-971d-ec505e12bcd7",
+        "courseId": "A1V4IF",
+        "gradeValue": "C"
+    }, {
+        "studentId": "886417f2-badf-4cde-8271-22c559ae3f24",
+        "courseId": "991FOS",
+        "gradeValue": "C"
+    }, {
+        "studentId": "886417f2-badf-4cde-8271-22c559ae3f24",
+        "courseId": "A1V4IF",
+        "gradeValue": "B"
+    }, {
+        "studentId": "1e993511-32ad-4c13-83ad-4b8462ed1355",
+        "courseId": "GEMNQV",
+        "gradeValue": "D"
+    }, {
+        "studentId": "1e993511-32ad-4c13-83ad-4b8462ed1355",
+        "courseId": "WVXO48",
+        "gradeValue": "D"
+    }, {
+        "studentId": "1e993511-32ad-4c13-83ad-4b8462ed1355",
+        "courseId": "A1V4IF",
+        "gradeValue": "D"
+    }, {
+        "studentId": "d7dad9e1-ff48-4389-b6ae-5c7293a5e86d",
+        "courseId": "991FOS",
+        "gradeValue": "A"
+    }, {
+        "studentId": "d7dad9e1-ff48-4389-b6ae-5c7293a5e86d",
+        "courseId": "A1V4IF",
+        "gradeValue": "F"
+    }]
+}
